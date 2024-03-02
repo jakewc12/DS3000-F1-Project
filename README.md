@@ -4,6 +4,5 @@
 First, clone the repo and `cd` into the directory
 
 ```bash
-git clone https://github.com/SGAOperationalAffairs/nomination-system.git
-cd nomination-system
+git clone https://github.com/jakewc12/DS3000-F1-Project.git
 ```
